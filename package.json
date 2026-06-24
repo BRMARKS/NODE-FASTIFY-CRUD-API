@@ -1,0 +1,12 @@
+{
+  "name": "node-formula-premium",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.0.0"
+  }
+}
